@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/reSlicing/static/css/main.8c919bfe.css",
-    "main.js": "/reSlicing/static/js/main.a704090a.js",
+    "main.css": "/reSlicing/static/css/main.4f39cd76.css",
+    "main.js": "/reSlicing/static/js/main.ffb5fe66.js",
     "static/media/Rectangle 236.png": "/reSlicing/static/media/Rectangle 236.0e2677a1b5e88de81970.png",
     "static/media/Placeholder (1).png": "/reSlicing/static/media/Placeholder (1).7f31c23174c2cf8ef552.png",
     "static/media/Placeholder (2).png": "/reSlicing/static/media/Placeholder (2).daa345bda64c04029d17.png",
@@ -26,11 +26,11 @@
     "static/media/undraw_online_ad_re_ol62 1.png": "/reSlicing/static/media/undraw_online_ad_re_ol62 1.dd2bce3875f6257c732a.png",
     "static/media/Group 1309.png": "/reSlicing/static/media/Group 1309.73a3a91130b96eded034.png",
     "index.html": "/reSlicing/index.html",
-    "main.8c919bfe.css.map": "/reSlicing/static/css/main.8c919bfe.css.map",
-    "main.a704090a.js.map": "/reSlicing/static/js/main.a704090a.js.map"
+    "main.4f39cd76.css.map": "/reSlicing/static/css/main.4f39cd76.css.map",
+    "main.ffb5fe66.js.map": "/reSlicing/static/js/main.ffb5fe66.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c919bfe.css",
-    "static/js/main.a704090a.js"
+    "static/css/main.4f39cd76.css",
+    "static/js/main.ffb5fe66.js"
   ]
 }
