@@ -1,15 +1,22 @@
 {
   "files": {
-    "main.css": "/reSlicing/static/css/main.af793367.css",
-    "main.js": "/reSlicing/static/js/main.7df8e163.js",
+    "main.css": "/reSlicing/static/css/main.8c919bfe.css",
+    "main.js": "/reSlicing/static/js/main.a704090a.js",
     "static/media/Rectangle 236.png": "/reSlicing/static/media/Rectangle 236.0e2677a1b5e88de81970.png",
     "static/media/Placeholder (1).png": "/reSlicing/static/media/Placeholder (1).7f31c23174c2cf8ef552.png",
     "static/media/Placeholder (2).png": "/reSlicing/static/media/Placeholder (2).daa345bda64c04029d17.png",
     "static/media/Placeholder.png": "/reSlicing/static/media/Placeholder.92422afeeb8f3d440fae.png",
     "static/media/undraw_analytics_re_dkf8 1.png": "/reSlicing/static/media/undraw_analytics_re_dkf8 1.15848273a48df469760f.png",
+    "static/media/Component 1.png": "/reSlicing/static/media/Component 1.c5d3622b1b163610e12b.png",
     "static/media/undraw_page_not_found_re_e9o6 1.png": "/reSlicing/static/media/undraw_page_not_found_re_e9o6 1.74765a6f19c19935b8dc.png",
     "static/media/undraw_voting_nvu7 1.png": "/reSlicing/static/media/undraw_voting_nvu7 1.ff6d3e0b961c6884f978.png",
+    "static/media/Group 427319227.png": "/reSlicing/static/media/Group 427319227.079051d980a566735771.png",
+    "static/media/Group 427319216.png": "/reSlicing/static/media/Group 427319216.11fdf0c8343f20021b4b.png",
+    "static/media/Component 2.png": "/reSlicing/static/media/Component 2.808a2fd1830b770bfb6d.png",
+    "static/media/Component 3.png": "/reSlicing/static/media/Component 3.9296d3aa2e82f1d3ea56.png",
+    "static/media/Group 427319223.png": "/reSlicing/static/media/Group 427319223.339d6859d91e4ce4be3f.png",
     "static/media/Group 1931.png": "/reSlicing/static/media/Group 1931.9d0a4e3ad8d33741f4b4.png",
+    "static/media/柱状图  Basic histogramt.png": "/reSlicing/static/media/柱状图  Basic histogramt.38443a8d4d8f0a3e89d5.png",
     "static/media/Group 1930.png": "/reSlicing/static/media/Group 1930.f4f16e6a1ae1fcc1d4ad.png",
     "static/media/thrift.png": "/reSlicing/static/media/thrift.26207d596a502c2653b0.png",
     "static/media/location.png": "/reSlicing/static/media/location.1c333943dbaea0b8570a.png",
@@ -19,11 +26,11 @@
     "static/media/undraw_online_ad_re_ol62 1.png": "/reSlicing/static/media/undraw_online_ad_re_ol62 1.dd2bce3875f6257c732a.png",
     "static/media/Group 1309.png": "/reSlicing/static/media/Group 1309.73a3a91130b96eded034.png",
     "index.html": "/reSlicing/index.html",
-    "main.af793367.css.map": "/reSlicing/static/css/main.af793367.css.map",
-    "main.7df8e163.js.map": "/reSlicing/static/js/main.7df8e163.js.map"
+    "main.8c919bfe.css.map": "/reSlicing/static/css/main.8c919bfe.css.map",
+    "main.a704090a.js.map": "/reSlicing/static/js/main.a704090a.js.map"
   },
   "entrypoints": [
-    "static/css/main.af793367.css",
-    "static/js/main.7df8e163.js"
+    "static/css/main.8c919bfe.css",
+    "static/js/main.a704090a.js"
   ]
 }
